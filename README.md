@@ -1,4 +1,5 @@
-### Hi there 👋
+### ¡Hola! 👋 ¡Me llamo Fran! Bienvenido.
+Tabajo como desarrollador web <em>freelance</em> en IguannaWeb y llevo el Centro de Investigación y Desarrollo de Recursos Científicos BioScripts, donde mezclo un poco Biología y código.
 
 <!--
 **crishnakh/crishnakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
