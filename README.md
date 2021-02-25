@@ -1,5 +1,12 @@
-### ¡Hola! 👋 ¡Me llamo Fran! Bienvenido.
+### 👋 ¡Hola! ¡Me llamo Fran! Bienvenido.
 Tabajo como desarrollador web <em>freelance</em> en IguannaWeb y llevo el Centro de Investigación y Desarrollo de Recursos Científicos BioScripts, donde mezclo un poco Biología y código.
+
+### 💬 Mis dominios
+<a target="_blank" href="https://www.iguannaweb.com"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=iguannaweb.com&style=plastic&up_color=green&up_message=UP&url=https%3A%2F%2Fwww.iguannaweb.com"></a> - ¿Quieres una web? I guanna Web!<br>
+<a target="_blank" href="https://www.bioscripts.net"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=BioScripts&style=plastic&up_color=green&up_message=UP&url=https%3A%2F%2Fwww.bioscripts.net"></a> - Centro de Investigación y Desarrollo de recursos Científicos
+
+### 📫 Contacta
+- Correo: <a href="mailto:hola@franciscogalvezprada.com">hola@franciscogalvezprada.com</a>
 
 <!--
 **crishnakh/crishnakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
