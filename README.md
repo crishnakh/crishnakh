@@ -1,5 +1,5 @@
 ### 👋 ¡Hola! ¡Me llamo Fran! Bienvenido.
-Tabajo como desarrollador web <em>freelance</em> en IguannaWeb y llevo el Centro de Investigación y Desarrollo de Recursos Científicos BioScripts, donde mezclo un poco Biología y código.
+Tabajo como desarrollador web <em>freelance</em> en <strong>IguannaWeb</strong> y llevo el <strong>Centro de Investigación y Desarrollo de Recursos Científicos BioScripts</strong>, donde mezclo un poco Biología y código.
 
 ### 💬 Mis dominios
 <a target="_blank" href="https://www.iguannaweb.com"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=iguannaweb.com&style=plastic&up_color=green&up_message=UP&url=https%3A%2F%2Fwww.iguannaweb.com"></a> - ¿Quieres una web? I guanna Web!<br>
